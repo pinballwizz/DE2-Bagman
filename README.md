@@ -1,2 +1,4 @@
 # DE2-Bagman
-Bagman Arcade synthesized on an Altera DE2-35 Dev Board.
+![Model](DE2_Bagman.jpg)
+
+Bagman Arcade vhdl code ported to an Altera DE2-35 FPGA. Works with 31khz VGA Monitor. Code from darfpga.
